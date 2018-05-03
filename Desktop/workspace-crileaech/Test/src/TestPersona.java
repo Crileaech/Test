@@ -8,6 +8,9 @@ public class TestPersona {
 		Persona p1 = new EmpleadoPublico("Ana","Rodriguez","4564564Z",12,date, 2060, Contrato.FULL_TIME, null, null);
 		
 		System.out.println("Show me : " +p1);
+		
+		System.out.println("soyedwin");
+		
 	}
 
 }
